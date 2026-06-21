@@ -1,0 +1,29 @@
+!
+! Title: personalizado
+! Description: anúncios q n foram barrados normalmente
+! Version: 1
+! Homepage: https://github.com
+! Last modified: 2026-06-21T21:35:09.913Z
+!
+! Compiled by@koehlerluizfernando
+!
+||bnc.lt^
+||app.appsflyer.com^
+||tags.crwdcntrl.net^
+||redirector.googlevideo.com^
+||connect.facebook.net^
+||firebase-settings.crashlystics.com^
+||impact.com^
+||zenaps.com^
+||redirector.skimresources.com^
+||go.redirecttingat.com^
+||click.mailchimp.com^
+||widget.intercom.io^
+||api.onesignal.com^
+||customer.io^
+||dai.google.com^
+||imasdk.googleapis.com^
+||mssl.fwmrm.net^
+||cdn.privacy-mgmt.com^
+||app.usercentrics.eu^
+||cmp.osano.com^
